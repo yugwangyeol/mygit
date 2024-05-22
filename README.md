@@ -2,3 +2,5 @@
 I'm interested in Python, AI, BigData  
 Fun Fact : 
 🔊 I love you
+
+💕 I love python
