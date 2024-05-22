@@ -4,3 +4,5 @@ Fun Fact :
 🔊 I love you
 
 💕 I love python
+
+집에 가자~
